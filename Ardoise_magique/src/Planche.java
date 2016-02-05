@@ -109,7 +109,7 @@ public class Planche extends JPanel {
 				g.fillOval(p.getX(), p.getY(), p.getTaille(), p.getTaille());
 			}
 		}
-
+		// le deuxieme test
 		/*
 		 * Font font = new Font("Courier", Font.BOLD, 20); g.setFont(font);
 		 * g.setColor(Color.red); g.drawString(
