@@ -27,7 +27,7 @@ public class Fenetre extends JFrame {
 	private JPanel content = new JPanel();
 	private JLabel label = new JLabel("roro"); // label test
 
-	// creation du menudd
+	// creation du menudd wi jekk
 
 	private JMenuBar menuBar = new JMenuBar();
 
